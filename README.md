@@ -11,5 +11,4 @@ types.
 ![image](https://user-images.githubusercontent.com/98927811/199135444-d404c88a-c27a-42ac-be23-d92c7222004a.png)
 
 
-We use Univariate and Multivariate Analysis to understand how to understand the category of the new clients. We have used Support Vector Machine and Logistic Regression 
-to understand what group of people read magazines and to whom can the company advertise later.
+We use Univariate and Multivariate Analysis to understand how to understand the category of the new clients. We have used 'Support Vector Machine' and 'Logistic Regression'to understand what group of people read magazines and to whom can the company advertise later.
